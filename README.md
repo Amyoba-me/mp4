@@ -1,3 +1,1 @@
-git add videos/VID_20251006_184519_118.mp4
-git commit -m "Добавил видео"
-git push origin main
+https://disk.yandex.ru/i/eP3Tvop66zyWxA
